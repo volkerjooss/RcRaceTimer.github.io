@@ -30,7 +30,7 @@ Da wir keine Daten erheben oder speichern, bestehen in der Regel **keine Betroff
 
 **Volker Jooss**  
 Ricarda-Huch-Weg 34
-89134 Blasutein
+89134 Blaustein
 Germany
 
 ---
