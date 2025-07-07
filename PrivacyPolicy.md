@@ -30,7 +30,7 @@ Since we do not collect or store any personal data, there are generally **no dat
 
 **Volker Jooss**  
 Ricarda-Huch-Weg 34
-89134 Blasutein
+89134 Blaustein
 Germany
 
 ---
